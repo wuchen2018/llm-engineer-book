@@ -34,4 +34,4 @@
 - [B站：作者武辰](https://space.bilibili.com/271305784)
 - [知乎：武辰](https://www.zhihu.com/people/fffar)
 - [已出版：《大白话概率论：从数学直觉到AI视野》](https://github.com/wuchen2018/probability-book)
-- [另一本筹备中的书：算法工程师职场观察（书名待定）](https://github.com/wuchen2018/algorithm-engineer-book)
+- [另一本筹备中的书：《收到：一个算法工程师的六年》](https://github.com/wuchen2018/algorithm-engineer-book)
