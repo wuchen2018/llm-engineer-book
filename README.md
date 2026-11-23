@@ -8,15 +8,7 @@
 
 这个仓库放着当前的书稿目录、八份样章、样章对应的代码和配套练习，你可以先读几节，看看这样的讲法适不适合你。
 
-[目录](#目录) · [样章](#样章) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html) · [配套代码](code/) · [配套练习](guides/)
-
-## 网页交互实验
-
-这本书还在出版前校对中，这里先开放 Softmax 选词和注意力 QKV 两个交互实验。不用配显卡，也不用写代码，点开就能试。目录中另外 8 个实验将在图书出版后开放，动画视频会陆续更新。
-
-[模型打完分，怎么选下一个词？](https://wuchen2018.pages.dev/readers/llm/softmax/?from=public) · [同一个“苹果”，注意力会看向哪里？](https://wuchen2018.pages.dev/readers/llm/attention-qkv/?from=public)
-
-[查看实验目录（已开放 2 个，其余出版后开放）](https://wuchen2018.pages.dev/experiments/llm/)
+[目录](#目录) · [样章](#样章) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html) · [配套代码](code/) · [网页交互实验](#网页交互实验) · [配套练习](guides/)
 
 ## 这本书是怎么讲的
 
@@ -312,6 +304,14 @@
 ## 配套代码
 
 已公开样章对应的 Python 实验室代码，见[配套代码目录](code/)。其余章节的代码会在本书出版后继续整理公开。
+
+## 网页交互实验
+
+这本书还在出版前校对中，这里先开放 Softmax 选词和注意力 QKV 两个交互实验。不用配显卡，也不用写代码，点开就能试。目录中另外 8 个实验将在图书出版后开放，动画视频会陆续更新。
+
+[模型打完分，怎么选下一个词？](https://wuchen2018.pages.dev/readers/llm/softmax/?from=public) · [同一个“苹果”，注意力会看向哪里？](https://wuchen2018.pages.dev/readers/llm/attention-qkv/?from=public)
+
+[查看实验目录（已开放 2 个，其余出版后开放）](https://wuchen2018.pages.dev/experiments/llm/)
 
 ## 配套练习
 
