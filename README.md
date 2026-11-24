@@ -8,7 +8,7 @@
 
 这个仓库放着当前的书稿目录、八份样章、样章对应的代码和配套练习，你可以先读几节，看看这样的讲法适不适合你。
 
-[目录](#目录) · [样章](#样章) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html) · [配套代码](code/) · [网页交互实验](#网页交互实验) · [配套练习](guides/)
+[目录](#目录) · [样章](#样章) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html) · [配套代码](code/) · [网页交互实验](#网页交互实验) · [教学视频](#教学视频) · [配套练习](guides/)
 
 ## 这本书是怎么讲的
 
@@ -312,6 +312,12 @@
 [模型打完分，怎么选下一个词？](https://wuchen2018.github.io/llm-engineer-book/experiments/?topic=softmax) · [同一个“苹果”，注意力会看向哪里？](https://wuchen2018.github.io/llm-engineer-book/experiments/?topic=attention-qkv)
 
 [查看实验目录（已开放 2 个，其余出版后开放）](https://wuchen2018.github.io/llm-engineer-book/experiments/)
+
+## 教学视频
+
+这本书尚未正式出版，先开放Softmax选词和注意力QKV两集动画视频。用几个词和小矩阵，把计算过程一步步展开。
+
+[观看教学视频（2集）](https://wuchen2018.github.io/llm-engineer-book/experiments/#videos)
 
 ## 配套练习
 
