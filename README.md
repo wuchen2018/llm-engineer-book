@@ -309,9 +309,9 @@
 
 这本书还在出版前校对中，这里先开放 Softmax 选词和注意力 QKV 两个交互实验。不用配显卡，也不用写代码，点开就能试。目录中另外 8 个实验将在图书出版后开放，动画视频会陆续更新。
 
-[模型打完分，怎么选下一个词？](https://wuchen2018.pages.dev/readers/llm/softmax/?from=public) · [同一个“苹果”，注意力会看向哪里？](https://wuchen2018.pages.dev/readers/llm/attention-qkv/?from=public)
+[模型打完分，怎么选下一个词？](https://wuchen2018.github.io/llm-engineer-book/experiments/?topic=softmax) · [同一个“苹果”，注意力会看向哪里？](https://wuchen2018.github.io/llm-engineer-book/experiments/?topic=attention-qkv)
 
-[查看实验目录（已开放 2 个，其余出版后开放）](https://wuchen2018.pages.dev/experiments/llm/)
+[查看实验目录（已开放 2 个，其余出版后开放）](https://wuchen2018.github.io/llm-engineer-book/experiments/)
 
 ## 配套练习
 
